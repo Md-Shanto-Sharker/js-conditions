@@ -13,7 +13,7 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
 /**
  * Answer>>>>>>>>>>>>>>>>>>>
  */
-const BMI = 22.5;
+const BMI = 24.5;
 if(BMI<18.5){
     console.log('you are underweight');
 }

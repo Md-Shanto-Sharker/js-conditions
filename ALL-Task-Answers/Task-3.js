@@ -11,3 +11,24 @@ Create a simple JavaScript program that takes a student's score as input and ret
     F: 0-59
 
 ***/
+
+/***
+ * Answer>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ */
+
+const score = 95;
+if(score<=100 && score>=90){
+    console.log('you got A');
+}
+else if(score<=89 && score>=80){
+    console.log('you got B');
+}
+else if(score<=79 && score>=70){
+    console.log('you got C');
+}
+else if(score<=69 && score>=60){
+    console.log('you got D');
+}
+else{
+    console.log('you are fail');
+}
