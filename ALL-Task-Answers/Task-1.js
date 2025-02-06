@@ -5,9 +5,17 @@ Free Drinks
 */
 
 /** 
- * Answer
+ * Answer>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  */
 
+
+const BurgerPrice = 550;
+if(BurgerPrice>500){
+    console.log("free coke");
+}
+else{
+    console.log('your coke price is 30taka');
+}
 
 
 
